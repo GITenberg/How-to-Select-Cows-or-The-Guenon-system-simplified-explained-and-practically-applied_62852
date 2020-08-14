@@ -1,0 +1,44 @@
+_repo: How-to-Select-Cows-or-The-Guenon-system-simplified-explained-and-practically-applied_62852
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Guenon, François
+    aliases:
+    - Guenon, Francois
+    - Guènon, François
+    - Guénon, François
+    birthdate: 1796
+    deathdate: 1855
+    gutenberg_agent_id: '52159'
+    url: http://www.gutenberg.org/2009/agents/52159
+creator:
+  author:
+    agent_name: Hazard, Willis P. (Willis Pope)
+    aliases:
+    - Hazard, Willis Pope
+    - Otis, Herod
+    - Ploughshare, John V.
+    - Hazard, W. P. (Willis Pope)
+    birthdate: 1825
+    deathdate: 1913
+    gutenberg_agent_id: '52158'
+    url: http://www.gutenberg.org/2009/agents/52158
+description: ''
+gutenberg_issued: '2020-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62852'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SF'
+- !lcsh 'Dairy cattle'
+- !lcsh 'Cattle -- Judging'
+- !lcsh 'Cows'
+- GITenberg
+title: 'How to Select Cows
+
+  or, The Guenon system simplified, explained, and practically applied'
+url: http://www.gutenberg.org/ebooks/62852
